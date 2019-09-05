@@ -24,6 +24,7 @@
 ----
       5.1数据库设计：创建四张表账户表、商品表、订单表、订单明细表，其中订单表一条记录对应订单明细表中n条记录，属于一对多的关系。
       5.2分层设计：字符界面层(Command)，业务逻辑层(Service)，数据库访问层(Dao)，数据库
+      ![](https://github.com/xuyi0102/MyItem/blob/master/%E5%88%86%E5%B1%82.PNG)
       5.3使用DataSource的方法连接MySQL数据库。
       
         
